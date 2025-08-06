@@ -4,7 +4,7 @@ A fun and simple dice game built with HTML5, CSS3, and JavaScript. Refresh the p
 
 ## 🚀 Demo
 
-[Click here to play](https://your-username.github.io/dicee-game/)  
+[Click here to play]([https://your-username.github.io/dicee-game/](https://abdullahali785.github.io/Dice-Game/))  
 
 ## 🛠️ Technologies Used
 
